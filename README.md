@@ -27,7 +27,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 Hi, I'm Mirjalol(clevermir) – a passionate student and aspiring Web & Mobile Developer. I work with technologies like Python, Django, React, and PostgreSQL to build modern and efficient applications. I'm also deeply interested in AI, marketing, and UX/UI design.
 
-I’m a responsible and team-oriented individual who enjoys solving problems and learning new things. I speak Uzbek (native), English (intermediate), and Russian (intermediate). In the future, I aim to become a skilled Software Engineer and launch my own startup.
+I’m a responsible and team-oriented individual who enjoys solving problems and learning new things. I speak Uzbek (native),Korean (advanced), English (upper intermediate), and Russian (intermediate). In the future, I aim to become a skilled Software Engineer and launch my own startup.
 
 In my free time, I love reading books and staying active with sports. I would describe myself as patient, creative, kind, and friendly – always open to collaboration and growth.
 
